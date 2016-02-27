@@ -1,9 +1,8 @@
 <resources>
     <string name="app_name">SimpleTodo</string>
-    <string name="title_activity_main">Simple Todo</string>
+    <string name="simple_todo">Simple Todo</string>
     <string name="enter_a_new_item">Enter a new item</string>
     <string name="add_item">Add Item</string>
-    <string name="title_activity_edit_item">Edit Item</string>
-    <string name="edit_item_below_">Edit item below:</string>
-    <string name="save">Save</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="item_text_can_not_be_empty">Item text can not be empty</string>
 </resources>
